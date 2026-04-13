@@ -278,7 +278,7 @@ AI AGENTS
 
 ---
 
-> 📅 **Day 2 Preview:** Diving into LLMs — How Language Models Work, Tokens, Context Windows & Prompting Basics
+> 📅 **Day 2 Preview:** What tools to use ?
 
 ---
 
