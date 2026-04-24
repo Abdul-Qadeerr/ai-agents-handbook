@@ -1,5 +1,5 @@
 # 🤖 Day 1 — AI Automation & AI Agents
-
+ 
 > **Study Series:** AI Fundamentals for Developers  
 > **Topic:** AI Automation vs AI Agents — Concepts, Comparisons & Real-World Scenarios  
 > **Level:** Beginner → Intermediate
